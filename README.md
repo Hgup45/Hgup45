@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hgup45
+- 👋 Hi, I’m @Harshita
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning python
 - 📫 How to reach me hgup45@gmail.com
